@@ -62,7 +62,7 @@ def select(args, inverse=False, even_page=False):
 
             if even_page:
                 if pagecnt % 2 == 1:
-                    output.addPage(iohelper.create_empty_page(page))
+                    output.addBlankPage()
                     pagecnt += 1
 
     except Exception, e:
