@@ -5,6 +5,7 @@ Stapler is a pure Python alternative to
 `PDFtk <http://www.pdfhacks.com/pdftk/>`__, a tool for manipulating PDF
 documents from the command line.
 
+
 History
 -------
 
